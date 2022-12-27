@@ -1,8 +1,12 @@
 > At some point, this workflow broke for me. I'm not sure if it was Alfred or
-> iTerm or both. Also iTerm introduced a Python API and deprecated using
-> AppleScript. Did I mention I need this workflow to work?
+> iTerm or both. I cloned the repo with the intent to figure out what changed
+> and hopefully find a quick fix. I realized the way iTerm profiles were stored
+> changed so this was going to be hard. Then I realized that iTerm had
+> introduced a Python API that made rewriting from scratch more or less
+> straightforward. 
 >
-> I only use iTerm so I created a new version of this workflow that uses the Python API.
+> I only use iTerm so I created a new version of this workflow just for that
+> purpose.
 >
 > Please see [alfred-new-iterm-window](https://github.com/andresrinivasan/alfred-new-iterm-window).
 
