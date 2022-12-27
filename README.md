@@ -1,3 +1,11 @@
+> At some point, this workflow broke for me. I'm not sure if it was Alfred or
+> iTerm or both. Also iTerm introduced a Python API and deprecated using
+> AppleScript. Did I mention I need this workflow to work?
+>
+> I only use iTerm so I created a new version of this workflow that uses the Python API.
+>
+> Please see [alfred-new-iterm-window](https://github.com/andresrinivasan/alfred-new-iterm-window).
+
 Alfred Workflow - New Terminal Window
 ==========================
 
